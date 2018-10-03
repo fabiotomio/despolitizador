@@ -1,10 +1,10 @@
 {
-	"title": "Despolitizador",
-	"description": "Traduzindo linguajar político para vocabulário das ruas",
-	"url": "https://www.felipefialho.com/despolitizador/",
-	"logo": "medias/political-avatar.svg",
-	"logo_fallback": "medias/political-avatar.png",
+	"title": "Destomiozador",
+	"description": "Traduzindo linguajar tomiozado para vocabulário das ruas",
+	"url": "https://www.github.com/vnbrs/despolitizador",
+	"logo": "medias/tomio.png",
+	"logo_fallback": "medias/tomio.png",
 	"theme_color": "#0291a7",
-	"short_name": "Despolitizador",
+	"short_name": "Destomiozador",
 	"ga": "UA-40410936-4"
 }
